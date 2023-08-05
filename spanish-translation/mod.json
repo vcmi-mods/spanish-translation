@@ -1,7 +1,7 @@
 {	
 	"name" : "Spanish translation",
 	"description" : "Spanish translation of Heroes of Might and Magic III: Complete Edition",
-	"version" : "1.0.0",
+	"version" : "1.0.1",
 	"author" : "",
 	"contact" : "https://github.com/vcmi-mods/spanish-translation",
 	"modType" : "Translation",
@@ -12,6 +12,7 @@
 	},
 	"changelog" : 
 	{ 
+		"1.0.1" : [ "convert to png" ],
 		"1.0.0" : [ "Initial release based on https://portal.heroesofmightandmagic.es/downloads/display/7 + RoE Scenario texts & sounds from HD" ]
 	},
 	"german" : {
