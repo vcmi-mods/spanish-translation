@@ -1,0 +1,24 @@
+{	
+	"name" : "Chronicles (spanish)",
+	"description" : "Spanish translation of Heroes Chronicles.",
+	"version" : "1.0.0",
+	"author" : "3DO",
+	"contact" : "https://github.com/vcmi-mods/spanish-translation",
+	"modType" : "Compatibility",
+	"language" : "spanish",
+	"compatibility" :
+	{
+		"min" : "1.2.0"
+	},
+	"keepDisabled" : true,
+	"changelog" : 
+	{ 
+		"1.0.0" : [ "Initial release" ]
+	},
+	"depends" : [ 
+		"chronicles"
+	],
+	"translations" : [
+		"config/vcmi-spanish-chronicles/chronicles.json"
+	]
+}
